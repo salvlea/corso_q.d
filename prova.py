@@ -1,1 +1,1 @@
-print("ciao seconda prova")
+print("ciao prima")
