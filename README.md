@@ -1,19 +1,16 @@
-# 🧩 Proposta Progetto – Quiz Game Web App
+# 🧩  Quiz Game Web App
 
-## 📌 Titolo
-**Quiz Game Web App**
 
 ## 👥 Team
-- Nome Studente 1 – Matricola XXXX
-- Nome Studente 2 – Matricola XXXX
-- (eventuali altri membri)
+- Leanza Salvatore  - matricola: 1000084819 -  LM-18
+- Thomas Morales  -  matricola: 1000071746 -  L-31
+- git hub 
 
 ---
 
 ## 🎯 Obiettivo
 Realizzare una **web application interattiva** per giocare a quiz a risposta multipla.  
 L’app permetterà di caricare quiz da file JSON, giocare in locale tramite interfaccia web, e visualizzare statistiche finali.  
-Il progetto sarà sviluppato seguendo i principi di **qualità del software**, **testing automatizzato**, e **integrazione continua**.
 
 ---
 
