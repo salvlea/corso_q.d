@@ -6,7 +6,7 @@
 - Thomas Morales  -  matricola: 1000071746 -  L-31 - GitHub   [Thomasss5](https://github.com/Thomasss5)
 
   
-[repo](https://github.com/salvlea/Progetto_Finale2)
+[link della Repository](https://github.com/Thomasss5/Progetto_Finale.git)
 
 
 ---
