@@ -2,9 +2,9 @@
 
 
 ## 👥 Team
-- Leanza Salvatore  - matricola: 1000084819 -  LM-18
-- Thomas Morales  -  matricola: 1000071746 -  L-31
-- git hub 
+- Leanza Salvatore  - matricola: 1000084819 -  LM-18 - GitHub salvlea
+- Thomas Morales  -  matricola: 1000071746 -  L-31 - GitHub Thomasss5
+
 
 ---
 
@@ -28,5 +28,5 @@ Ogni quiz sarà composto da:
   - elenco di opzioni (3–5 risposte)
   - indice della risposta corretta
 
----
+
 
